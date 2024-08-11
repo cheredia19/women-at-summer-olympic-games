@@ -1,6 +1,6 @@
 ---
-title: Welcome to your template dataset page!
-description: This is a template for publishing your dataset with Datahub Cloud.
+title: Women's participation in the history of the Summer Olympics
+description: .
 ---
 
 ## Testing data-rich components
@@ -8,7 +8,7 @@ description: This is a template for publishing your dataset with Datahub Cloud.
 I will add a data table from my data.csv file below:
 <FlatUiTable
   data={{
-    url: 'data.csv'
+    url: 'women_olympics.csv'
   }}
  />
 
