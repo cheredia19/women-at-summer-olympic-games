@@ -8,7 +8,7 @@ description: .
 I will add a data table from my data.csv file below:
 <FlatUiTable
   data={{
-    url: 'women_olympics.csv'
+    url: 'data.csv'
   }}
  />
 
