@@ -19,7 +19,7 @@ description:
   data={{
     url: 'women_olympic_games.csv'
   }}
-  title="Total of women participating in the Olympic Games"
+  title="Total of women participating in every edition"
   xAxis="Games"
   yAxis="Total of women"
 />
