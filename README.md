@@ -8,18 +8,18 @@ description: .
 I will add a data table from my data.csv file below:
 <FlatUiTable
   data={{
-    url: 'data.csv'
+    url: 'women_olympic_games.csv'
   }}
  />
 
- Looks kinda cool. What about a linechart? Let's see what this would look like:
+ Looks kinda cool. What about a Plotly Bar Chart at this would look like:
 
  <PlotlyBarChart
   data={{
-    url: 'data.csv'
+    url: 'women_olympic_games.csv'
   }}
   title=""
-  xAxis="games"
-  yAxis="women"
+  xAxis="Games"
+  yAxis="Total of women"
 />
 
