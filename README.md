@@ -32,3 +32,12 @@ I will add a data table from my data.csv file below:
   yAxis="Percent change"
 />
 
+<PlotlyBarChart
+  data={{
+    url: 'women_olympic_games.csv'
+  }}
+  title=""
+  xAxis="Games"
+  yAxis="Percentage of women"
+/>
+
