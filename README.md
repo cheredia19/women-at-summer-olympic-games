@@ -5,9 +5,7 @@ description:
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
-## Testing data-rich components
-
-I will add a data table from my data.csv file below:
+## Women's participation in every Summer Olympic Games
 
 <FlatUiTable
   data={{
@@ -21,7 +19,7 @@ I will add a data table from my data.csv file below:
   data={{
     url: 'women_olympic_games.csv'
   }}
-  title=""
+  title="Total of women participating in the Olympic Games"
   xAxis="Games"
   yAxis="Total of women"
 />
@@ -30,7 +28,7 @@ I will add a data table from my data.csv file below:
   data={{
     url: 'women_olympic_games.csv'
   }}
-  title=""
+  title="Percentage change between Olympic Games"
   xAxis="Games"
   yAxis="Percent change"
 />
@@ -39,7 +37,7 @@ I will add a data table from my data.csv file below:
   data={{
     url: 'women_olympic_games.csv'
   }}
-  title=""
+  title="Percentage of women out of total athletes"
   xAxis="Games"
   yAxis="Percentage of women"
 />
