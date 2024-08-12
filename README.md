@@ -27,13 +27,17 @@ Other milestones occurred at these Olympic Games:
 - Sydney 2000: 4069 (38.2%).
 - Rio 2016: 5059 (45%).
 
+## Gender equity
+
 There have been three consecutive Games with more than 5,000 women participating in the Olympics, with the highest number in Tokyo three years ago (5,409). However, the recently finished Paris 2024 Olympics were the first in history to [achieve full gender equity](https://olympics.com/en/news/paris-2024-first-games-to-achieve-full-gender-parity).
+
+The two graphics below show the number of female athletes participating, and the rate of women respect to the total of athletes in every Olympic edition.
 
  <PlotlyBarChart
   data={{
     url: 'women_at_olympics.csv'
   }}
-  title="Total of women participating in every edition"
+  title="Female athletes participating in every edition"
   xAxis="Games"
   yAxis="Total of women"
 />
@@ -42,26 +46,15 @@ There have been three consecutive Games with more than 5,000 women participating
   data={{
     url: 'women_at_olympics.csv'
   }}
-  title="Percentage of women out of total athletes"
+  title="Percentage of women out of the total athletes"
   xAxis="Games"
   yAxis="Percentage of women"
 />
+
+The table below resumes the participation of female athletes in every Summer Olympics ordered by the most recent event (Paris 2024). It shows the number of women in each game, the percent change from the previous edition, the total of athletes, and the rate of women out of the number of competitors.
 
 <FlatUiTable
   data={{
     url: 'women_at_olympics.csv'
   }}
  />
-
- Looks kinda cool. What about a Plotly Bar Chart at this would look like:
-
- <PlotlyBarChart
-  data={{
-    url: 'women_at_olympics.csv'
-  }}
-  title="Percentage change between Olympic Games"
-  xAxis="Games"
-  yAxis="Percent change"
-/>
-
-
