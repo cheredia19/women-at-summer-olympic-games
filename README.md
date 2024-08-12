@@ -27,9 +27,11 @@ Other milestones occurred at these Olympic Games:
 - Sydney 2000: 4069 (38.2%).
 - Rio 2016: 5059 (45%).
 
+There have been three consecutive Games with more than 5,000 women participating in the Olympics, with the highest number in Tokyo three years ago (5,409). However, the recently finished Paris 2024 Olympics were the first in history to [achieve full gender equity](https://olympics.com/en/news/paris-2024-first-games-to-achieve-full-gender-parity).
+
  <PlotlyBarChart
   data={{
-    url: 'women_olympic_games.csv'
+    url: 'women_at_olympics.csv'
   }}
   title="Total of women participating in every edition"
   xAxis="Games"
@@ -38,7 +40,7 @@ Other milestones occurred at these Olympic Games:
 
 <PlotlyBarChart
   data={{
-    url: 'women_olympic_games.csv'
+    url: 'women_at_olympics.csv'
   }}
   title="Percentage of women out of total athletes"
   xAxis="Games"
@@ -47,7 +49,7 @@ Other milestones occurred at these Olympic Games:
 
 <FlatUiTable
   data={{
-    url: 'women_olympic_games.csv'
+    url: 'women_at_olympics.csv'
   }}
  />
 
@@ -55,7 +57,7 @@ Other milestones occurred at these Olympic Games:
 
  <PlotlyBarChart
   data={{
-    url: 'women_olympic_games.csv'
+    url: 'women_at_olympics.csv'
   }}
   title="Percentage change between Olympic Games"
   xAxis="Games"
