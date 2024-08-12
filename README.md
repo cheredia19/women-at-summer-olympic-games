@@ -18,6 +18,8 @@ It was also in the French capital, where over 100 women took part in the global 
 - Tennis player [Kathleen McKane (GBR)](https://olympics.com/en/athletes/kathleen-mckane): a silver and a bronze medal.
 - Swimmer [Gertrude Ederle (USA)](https://olympics.com/en/athletes/gertrude-ederle): two bronze medals.
 
+Forty-eight years elapsed to witness 1,000 women participating in the Olympics. A number of 1,059 female athletes took part in the Munich 1972 Summer Olympic Games, representing 14.8% of the competitors back then.
+
  <PlotlyBarChart
   data={{
     url: 'women_olympic_games.csv'
