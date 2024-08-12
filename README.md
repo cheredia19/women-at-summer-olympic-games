@@ -11,7 +11,7 @@ One hundred and twenty-four years ago, 22 women pursued Olympic glory, with Swis
 
 British tennis player [Charlotte Cooper](https://olympics.com/en/athletes/charlotte-cooper) also made history as the first female Olympic champion **in an individual competition**.
 
-It was also in the French capital, where over 100 women took part in the global competition for the first time. One hundred and 36 women participated in the Paris 2024 Olympic Games. Three Americans and a British female athlete earned multiple medals:
+It was also in the French capital, where over 100 women took part in the global competition for the first time. One hundred and 36 women participated in the **Paris 1924 Olympic Games**. Three Americans and a British female athlete earned multiple medals:
 
 - Tennis player [Helen Wills (USA)](https://olympics.com/en/athletes/helen-wills): two gold medals.
 - Diver [Elizabeth Becker-Pinkston (USA)](https://olympics.com/en/athletes/elizabeth-becker-pinkston): a gold and a silver medal.
