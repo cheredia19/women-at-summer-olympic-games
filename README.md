@@ -1,6 +1,6 @@
 ---
 title: Women's participation in the history of the Summer Olympics
-description: 
+description: The road from 2.2% of female athletes to gender equity in participation in the Olympic Games
 ---
 
 *By [César Heredia](https://x.com/cahered), data journalist*
