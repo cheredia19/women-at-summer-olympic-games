@@ -20,6 +20,13 @@ It was also in the French capital, where over 100 women took part in the global 
 
 Forty-eight years elapsed to witness 1,000 women participating in the Olympics. A number of 1,059 female athletes took part in the Munich 1972 Summer Olympic Games, representing 14.8% of the competitors back then.
 
+Other milestones occurred at these Olympic Games:
+
+- Seoul 1988: 2194 female athletes (26.1% of the total).
+- Atlanta 1996: 3512 (34%).
+- Sydney 2000: 4069 (38.2%).
+- Rio 2016: 5059 (45%).
+
  <PlotlyBarChart
   data={{
     url: 'women_olympic_games.csv'
@@ -27,6 +34,15 @@ Forty-eight years elapsed to witness 1,000 women participating in the Olympics. 
   title="Total of women participating in every edition"
   xAxis="Games"
   yAxis="Total of women"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'women_olympic_games.csv'
+  }}
+  title="Percentage of women out of total athletes"
+  xAxis="Games"
+  yAxis="Percentage of women"
 />
 
 <FlatUiTable
@@ -46,12 +62,4 @@ Forty-eight years elapsed to witness 1,000 women participating in the Olympics. 
   yAxis="Percent change"
 />
 
-<PlotlyBarChart
-  data={{
-    url: 'women_olympic_games.csv'
-  }}
-  title="Percentage of women out of total athletes"
-  xAxis="Games"
-  yAxis="Percentage of women"
-/>
 
